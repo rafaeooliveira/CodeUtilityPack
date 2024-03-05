@@ -19,10 +19,6 @@ Cada diretório contém um `README.md` específico com instruções detalhadas s
 
 Antes de executar qualquer script, certifique-se de entender completamente o que ele faz. Recomendamos fazer um backup dos seus dados importantes antes de realizar qualquer operação que possa modificar ou excluir arquivos.
 
-## Contribuições
-
-Contribuições para o repositório são bem-vindas! Se você tiver melhorias, correções ou novos scripts úteis para adicionar, por favor, veja nossas diretrizes de contribuição no `CONTRIBUTING.md`.
-
 ## Licença
 
 Este repositório é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
